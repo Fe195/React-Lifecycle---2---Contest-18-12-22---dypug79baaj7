@@ -14,10 +14,11 @@ class App extends React.Component {
     this.handleClick = this.handleClick.bind(this);
 
   }
-  
-  componentDidMount(){
-  console.log("mounted");
+
+  componentDidMount() {
+    console.log("mounted");
   }
+
 
   
   render() {
